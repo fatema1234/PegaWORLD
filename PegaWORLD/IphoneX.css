@@ -1,0 +1,45 @@
+.navbar{
+       
+    background-color: #008B8B;
+    padding: 0;
+    position: relative;
+}  
+.navbar .pega_icon{
+        
+    margin-bottom: 40px;
+    margin-left: 0;
+    float: left;
+    
+}
+.menu{
+    display: block;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+        
+}
+.nav-list{
+    list-style-type: none;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    display: none;
+}
+.navbar a{
+    background-color: #8FBC8F;
+    display: block;
+    
+    color:white;
+    margin: 10px;
+    border-radius:10px;
+}
+
+h1{
+    font-size: 20px;
+}
+.footer a{
+    color: white;
+}
+.active{
+    display: block;
+}

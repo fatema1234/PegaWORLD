@@ -1,0 +1,35 @@
+/*768px and up) */
+
+.navbar{
+       
+    background-color: #008B8B;
+}  
+.navbar a {
+	text-decoration:none;
+	color:white;
+	
+} 
+.footer{
+    
+    background-color:#8FBC8F;
+}
+th{
+    background-color: #A9A9A9;
+    color: black;
+}
+
+tr:nth-child(even){
+    background-color: #DCDCDC;
+}
+
+.footer a{
+    color: black;
+}
+.active{
+    display: block;
+}
+
+
+
+
+
